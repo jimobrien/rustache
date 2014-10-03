@@ -1,9 +1,9 @@
 # Rustache [![Build Status](https://travis-ci.org/rustache/rustache.svg?branch=master)](https://travis-ci.org/rustache/rustache)
 A flexibile template engine for Rust
+ 
+## Getting Started ##
 
-## Getting Started
-
-### Install
+### Install ###
   Include Rustache as a dependency in your `Cargo.toml` file:
   
     [dependencies.rustache]
@@ -13,4 +13,10 @@ A flexibile template engine for Rust
     
   Add the crate to your project:
   
-    extern crate rustache
+    extern crate rustache;
+    
+
+## Roadmap ##
+
+
+## Contribute ##
